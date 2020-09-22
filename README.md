@@ -1,11 +1,36 @@
-# Sample Snack app
+# Home App UI Using React Native
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+This App Was made using React native. 
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+## Built With
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+* React Native
+* React Native Expo
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+## Try This Code In snack.expo.io
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+Use IOS For The Best Experience
+
+[Snack Expo Project](https://snack.expo.io/@belgin_android/29ddb0)
+
+## Check Out My Youtube Channel For Tutorial
+
+[Home App UI In React Native - Belgin Android](https://youtube.com/c/belginandroid)
+
+
+## The Code And Output
+
+<img src="https://user-images.githubusercontent.com/61349423/93846632-3a49ee00-fcc2-11ea-9bc4-ce668c971257.png" width="381" height="212">
+
+
+## Authors
+
+* **Belgin Android** - *FrontEnd* - [Belgin Android](https://instagram.com/reactnative.modules)
+* **Todium** - *FrontEnd* -[Todium](https://github.com/Todium)
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
+
